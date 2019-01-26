@@ -1,3 +1,0 @@
-adddd
-BBBBB
-腾讯云git帮助手册https://dev.tencent.com/help/doc/git-2
